@@ -4,3 +4,5 @@ Vehicles on road will often occlude other vehicles posing serious challenges to 
 So to tackle this problem we leveraged the Computer Vision algorithms and implemented an Collision detector algorithm to avoid collisions with occluded vehicles to increase the safety. This can be used as ADAS for alerting the driver.
 
 Tensorflow Object Detection algorithms are used to detect the vehicle by transfer learning and implemented an algorithm to find the number of occlusions and the vehicle causing that occlusion.
+
+**Picture1** and **Picture 2** shows the results of test images during the inference

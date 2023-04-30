@@ -6,3 +6,7 @@ So to tackle this problem we leveraged the Computer Vision algorithms and implem
 Tensorflow Object Detection algorithms are used to detect the vehicle by transfer learning and implemented an algorithm to find the number of occlusions and the vehicle causing that occlusion.
 
 **Picture1** and **Picture 2** shows the results of test images during the inference
+
+
+https://user-images.githubusercontent.com/47590467/235338427-919feb0a-b233-4924-8006-2fe4ce4ae31f.mp4
+
